@@ -1,0 +1,82 @@
+body{
+ 
+  width: 100%;
+  background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(197,219,246,1) 14%);
+}
+.film{
+
+display: flex;
+justify-content: space-around;
+margin-bottom: 400px;
+margin-top: 100px ;
+flex-wrap: wrap;
+gap: 50px;
+
+}
+ 
+.filter {
+
+  margin-left: 200px;
+  margin-top: 50px;
+  
+
+}
+.boubaker {
+  width: 300px;
+  height: 400px;
+
+}
+.ABC{
+  margin-left: 20px;
+  background-color: #719fee;
+  border-radius: 10px;
+  border: 4px double #1f69ec;
+  color: #ffffff;
+  text-align: center;
+  font-size: 20px;
+  width: 100px;
+  cursor: pointer;
+}
+.add{
+  margin-bottom: 50px;
+  
+  
+  
+}
+.xyz {
+  margin-left: 5px;
+  margin-bottom: 10px;
+  background-color: #5ee9c6;
+  border-radius: 10px;
+  border: 4px double #b5ec1f;
+  color: #ffffff;
+  text-align: center;
+  font-size: 20px;
+  width: 200px;
+}
+.hij {
+  margin-left: 5px;
+  margin-bottom: 10px;
+  background-color: #5ee9c6;
+  border-radius: 10px;
+  border: 4px double #b5ec1f;
+  color: #ffffff;
+  text-align: center;
+  font-size: 20px;
+  width: 200px;
+}
+.rate{
+margin-left: 600px;
+position: relative;
+bottom: 35px;
+
+}
+label{
+  margin-right: 30px;
+}
+
+
+
+  
+
